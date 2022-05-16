@@ -9,7 +9,8 @@ I am a software engineer with eight years of professional experience in full sta
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" alt="TypeScript" height="40" width="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" alt="ECMAScript 6" height="40" width="40"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="React" height="40" width="40"></a>
-<a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/es6.svg" alt="ECMAScript 6" height="40" width="40"></a>
+<a href="https://html.com/html5/" title="HTML5"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" alt="HTML5" height="40" width="40"></a>
+<a href="https://html.com/html5/" title="CSS"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" alt="CSS" height="40" width="40"></a>
 
 ### Backend
 
