@@ -20,7 +20,7 @@ I am a software engineer with eight years of professional experience in full sta
 <a href="https://go.dev/" title="Go"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/go.svg" alt="Go" height="40" width="40"></a>
 <a href="https://www.python.org/" title="python"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" alt="python" height="40" width="40"></a>
 
-### Desktop & Mobile
+### Mobile & Desktop
 
 <a href="https://flutter.dev/" title="Flutter"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/flutter.svg" alt="Flutter" height="40" width="40"></a>
 <a href="https://dart.dev/" title="Dart"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/dart.svg" alt="Dart" height="40" width="40"></a>
